@@ -2,6 +2,9 @@
 checking golang
 
 
+create a .env
+
+
 DB_HOST=localhost
 DB_PORT=5432
 DB_USER=
