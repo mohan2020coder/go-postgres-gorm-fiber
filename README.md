@@ -8,3 +8,4 @@ DB_USER=
 DB_PASS=
 DB_NAME=go_test
 DB_SSLMODE=disable
+
